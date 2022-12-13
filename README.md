@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DevOpsDTAGITCLee/ContosoAir/_apis/build/status/dtagclee.ContosoAir?branchName=master)](https://dev.azure.com/DevOpsDTAGITCLee/ContosoAir/_build/latest?definitionId=1&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
@@ -5,6 +6,10 @@
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
+
+## Source
+
+https://www.azuredevopslabs.com/labs/vstsextend/github-azurepipelines/
 
 ## Requirements
 
